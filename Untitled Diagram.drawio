@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T10:31:37.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="koJcdeuaLwuce-BtcXfY" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-24T10:36:51.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="dYVzPG3Lmz-avjrPHAQB" version="13.7.5" type="github">
   <diagram name="Models" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="2011" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#182E3E" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry x="320" y="-340" width="160" height="108.36" as="geometry" />
         </mxCell>
         <mxCell id="9UDhRz_OfWZZ6SCQJMtP-116" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;TaskBase&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;owner&lt;/li&gt;&lt;li&gt;title&lt;/li&gt;&lt;li&gt;updated&lt;/li&gt;&lt;li&gt;created&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#9673a6;shadow=1;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-90" width="160" height="100" as="geometry" />
+          <mxGeometry x="80" y="-80" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9UDhRz_OfWZZ6SCQJMtP-122" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Text&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;text&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#9673a6;shadow=1;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="40" width="160" height="80" as="geometry" />
+          <mxGeometry x="-60" y="60" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9UDhRz_OfWZZ6SCQJMtP-125" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;List&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;list&lt;/li&gt;&lt;li&gt;status&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#9673a6;shadow=1;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="-160" y="-69.99999999999999" width="160" height="80" as="geometry" />
@@ -31,7 +31,7 @@
             <mxPoint x="470" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9UDhRz_OfWZZ6SCQJMtP-131" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;DayPlan&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span&gt;date&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span&gt;tasks&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#82b366;shadow=1;fillColor=#d5e8d4;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9UDhRz_OfWZZ6SCQJMtP-131" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;DailyPlan&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span&gt;date&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span&gt;tasks&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#82b366;shadow=1;fillColor=#d5e8d4;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="-190" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9UDhRz_OfWZZ6SCQJMtP-132" value="" style="endArrow=classic;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="25" target="9UDhRz_OfWZZ6SCQJMtP-131">
@@ -53,7 +53,7 @@
           <mxGeometry x="320" y="-190" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="9UDhRz_OfWZZ6SCQJMtP-136" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Tag&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify&quot;&gt;title&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#9673a6;shadow=1;fillColor=#e1d5e7;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" width="160" height="90" as="geometry" />
+          <mxGeometry x="320" y="-20" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
